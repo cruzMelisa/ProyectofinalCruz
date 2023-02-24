@@ -1,0 +1,173 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Blazer Kendal",
+        "imagen": "./imagenes/Abrigos/abrigo-01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 13000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Cardigan Luli",
+        "imagen": "./imagenes/Abrigos/abrigo-02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Campera art",
+        "imagen": "./imagenes/Abrigos/abrigo-03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Blazer Cata",
+        "imagen": "./imagenes/Abrigos/abrigo-04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 6900
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Blazer Lola",
+        "imagen": "./imagenes/Abrigos/abrigo-05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 14500
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Blazer Tina",
+        "imagen": "./imagenes/Abrigos/abrigo-06.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 14500
+    },  
+    {
+        "id": "abrigo-07",
+        "titulo": "Blazer Princess",
+        "imagen": "./imagenes/Abrigos/abrigo-07.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 14500
+    },
+    {
+        "id": "remera-01",
+        "titulo": "Musculosa panal",
+        "imagen": "./imagenes/Remeras/remera-01.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 2800
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Musculosa volado",
+        "imagen": "./imagenes/Remeras/remera-02.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 2900
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Musculosas tejidas",
+        "imagen": "./imagenes/Remeras/remera-03.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remeras bordadas",
+        "imagen": "./imagenes/Remeras/remera-04.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 3500
+    },
+
+    {
+        "id": "pantalon-01",
+        "titulo": "Jeans cargo",
+        "imagen": "./imagenes/Pantalones/pantalon-01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Baggy engomado",
+        "imagen": "./imagenes/Pantalones/pantalon-02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 8500
+    },
+
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalon engomado",
+        "imagen": "./imagenes/Pantalones/pantalon-04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Jeans Ross",
+        "imagen": "./imagenes/Pantalones/pantalon-05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Jeans Wassa",
+        "imagen": "./imagenes/Pantalones/pantalon-06.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 8500
+    }, {
+        "id": "pantalon-07",
+        "titulo": "Jeans Pieta",
+        "imagen": "./imagenes/Pantalones/pantalon-07.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 7990
+    }
+]
