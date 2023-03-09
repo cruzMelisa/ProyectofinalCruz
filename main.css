@@ -6,7 +6,7 @@
 }
 
 .main{
-    height: 100vh;
+    height: 100%;
     width: 100%;
     background-image: url('imagenes/fondo.png');
     background-size: cover;
